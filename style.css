@@ -1,0 +1,62 @@
+/*body {
+	 font-size: calc(16px + 0.5vw);
+}*/
+
+.nav-item {
+	font-family: Montserrat, sans-serif;
+	font-size: 1.25rem;
+	font-weight: 500;
+}
+
+/*.navbar-brand {
+	margin-right: 0!important; 
+}*/
+
+.navbar-brand img {
+	width: 150px;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+}
+
+.navbar-nav > li {
+/*	padding-left: 2rem;
+	padding-right: 2rem; */
+}
+
+.carousel {
+	margin-bottom: 1rem;
+}
+
+/*#aboutTitle {
+	margin-bottom: 
+}
+*/
+#aboutTitle hr {
+	width: 60vw;
+	border-top: 2px solid #b4b4b4;
+	margin-top: .5rem;
+	margin-bottom: .5rem;
+	
+}
+
+.about-sub-row {
+	margin-bottom: 3rem;
+}
+
+#statementsOfFaith {
+	padding-left: 0;
+}
+
+#statementsOfFaith>li {
+	margin-bottom: 1rem;
+}
+
+/*p {
+	margin-bottom: 0;
+}
+*/
+/*font-family: 'Staatliches', cursive;
+font-family: 'Lato', sans-serif;
+font-family: 'Montserrat', sans-serif;
+*/
+
