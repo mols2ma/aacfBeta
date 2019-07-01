@@ -51,10 +51,29 @@
 	margin-bottom: 1rem;
 }
 
-/*p {
+p {
 	margin-bottom: 0;
 }
-*/
+
+.custom-btn {
+	background-color: Transparent;
+    background-repeat:no-repeat;
+    border: 5px solid #1F419B;
+    cursor:pointer;
+    overflow: hidden;
+    outline:none;
+    padding: 4px 40px;
+
+    font-family: Staatliches, sans-serif;
+    font-size: 2rem;
+    color:  #1F419B;
+    transition: .5s;
+}
+
+.custom-btn:hover {
+	background-color: #d2d9eb;
+}
+
 /*font-family: 'Staatliches', cursive;
 font-family: 'Lato', sans-serif;
 font-family: 'Montserrat', sans-serif;
