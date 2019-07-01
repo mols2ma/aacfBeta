@@ -31,8 +31,9 @@
 	position: absolute;
 	width: 894px;
 	height: 160px;
-	left: 550px;
+	left: 525px;
 	top: 156px;
+	vertical-align: middle;
 }
 
 /*#aboutTitle {
@@ -46,6 +47,8 @@
 	margin-bottom: .5rem;
 
 }
+
+/**/
 
 .about-sub-row {
 	margin-bottom: 3rem;
